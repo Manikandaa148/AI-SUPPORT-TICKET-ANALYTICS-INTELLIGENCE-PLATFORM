@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+.pytest_cache/
+.coverage
+data/*.db
+!data/support_tickets.csv
